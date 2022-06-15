@@ -1,10 +1,7 @@
-ore pointers, arrays and strings
+More pointers, arrays and strings
 
 Project done during Full Stack Software Engineering studies at ALX. 
 It aims to learn about pointers and arrays in C language.x
-
-
-Files
 
 All of the following files are programs written in C:
 Filename			Description
@@ -21,3 +18,6 @@ Filename			Description
 101-magic.c		Changes the value of an index of an integer array
 102-infinite_add.c	Adds two numbers
 103-print_buffer.c	Prints a buffer
+=======
+Technologies
+
